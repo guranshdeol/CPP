@@ -1,0 +1,1 @@
+cout<<"The Number is ODD";
